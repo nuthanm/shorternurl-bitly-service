@@ -20,6 +20,7 @@ Built with
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
+[my heroku url](https://shorten-url-bitly.herokuapp.com/)
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
